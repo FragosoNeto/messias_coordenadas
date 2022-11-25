@@ -1,0 +1,17 @@
+PT, Lisbon, 38.7167,-9.1333
+PT, Lisbon, 38.7167,-9.1333
+PT, Lisbon, 38.7167,-9.1333
+PT, Lisbon, 38.7167,-9.1333
+BR, João Pessoa, -7.115,-34.8631
+BR, Campina Grande, -7.2306,-35.8811
+GB, London, 51.5085,-0.1257
+GB, London, 51.5085,-0.1257
+BR, Natal, -5.795,-35.2094
+NG, Twon-Brass, 4,6
+BR, Natal, -5.795,-35.2094
+NG, Siluko, 6,5
+NG, Siluko, 6,5
+NG, Twon-Brass, 4,5
+BR, Manaus, -3.1019,-60.025
+GB, London, 51.5085,-0.1257
+PT, Lisbon, 38.7167,-9.1333
